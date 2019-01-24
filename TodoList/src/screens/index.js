@@ -1,5 +1,4 @@
 import HomeScreen from './HomeScreen';
+import AddScreen from './AddScreen';
 
-export {
-    HomeScreen
-}
+export {HomeScreen, AddScreen}
